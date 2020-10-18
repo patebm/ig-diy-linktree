@@ -1,17 +1,17 @@
 /* color palette from https://www.color-hex.com/color-palettes */
 :root {
-	--darkest-color: #a28089;
+	--darkest-color: #494D5F;
 	--lightest-color: #a0d2eb;
 	--highlight-color: #a96c78;
-	--bright-color-1: #cc929a;
-	--bright-color-2: #e8b1b5;
+	--bright-color-1: #8458B3;
+	--bright-color-2: #d0bdf4;
 	--bright-color-3: #7fcdff;
 }
 
 body {
 	background: var(--darkest-color);
 	color: var(--lightest-color);
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Comics san', sans-serif;
 }
 
 .container {
