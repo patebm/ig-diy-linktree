@@ -3,9 +3,10 @@
 	--darkest-color: #494D5F;
 	--lightest-color: #a0d2eb;
 	--highlight-color: #a0d2eb;
-	--bright-color-1: #e5eaf5;
-	--bright-color-2: #d0bdf4;
-	--bright-color-3: #845bb3;
+	--bright-color-1: #ddc4dd;
+	--bright-color-2: #dccfec;
+	--bright-color-3: #a997df;
+	--bright-color-4: #4f517d;
 }
 
 body {
@@ -75,12 +76,15 @@ a:hover {
 }
 
 .dark {
-	background: var(--bright-color-1);
+	background: var(--bright-color-4);
 }
 
 .medium {
-	background: var(--bright-color-2);
+	background: var(--bright-color-3);
 }
 
 .light {
-	background: var(--bright-color-3);
+	background: var(--bright-color-2);
+
+.lighter {
+	background: var(--bright-color-1);
