@@ -1,11 +1,11 @@
-/* color palette from https://www.color-hex.com/color-palettes */
+/* color palette inspiration from https://hookagency.com/website-color-schemes/ */
 :root {
 	--darkest-color: #494D5F;
 	--lightest-color: #a0d2eb;
-	--highlight-color: #a96c78;
-	--bright-color-1: #8458B3;
+	--highlight-color: #a0d2eb;
+	--bright-color-1: #e5eaf5;
 	--bright-color-2: #d0bdf4;
-	--bright-color-3: #7fcdff;
+	--bright-color-3: #845bb3;
 }
 
 body {
