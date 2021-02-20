@@ -62,6 +62,7 @@ a {
 	border-radius: 2px;
 }
 
+.highlighted,
 .link-list-item:hover,
 a:hover {
 	color: var(--highlight-color);
@@ -86,6 +87,7 @@ a:hover {
 .light {
 	background: var(--bright-color-2);
 }
+
 .bright {
 	background: var(--bright-color-1);
 }
