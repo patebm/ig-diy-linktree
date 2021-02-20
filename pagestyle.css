@@ -1,12 +1,12 @@
 /* color palette inspiration from https://hookagency.com/website-color-schemes/ */
 :root {
-	--darkest-color: #695958;
-	--lightest-color: #cfffe5;
-	--highlight-color: #cfffe5;
-	--bright-color-1: #cedada;
-	--bright-color-2: #cfffe5;
-	--bright-color-3: #c8ead3;
-	--bright-color-4: #b6c8a9;
+	--darkest-color: #2D2D34;
+	--lightest-color: #E2DCDE;
+	--highlight-color: #F1E4E8;
+	--bright-color-1: #F1E4E8;
+	--bright-color-2: #E2DCDE;
+	--bright-color-3: #CEB1BE;
+	--bright-color-4: #B97375;
 }
 
 body {
